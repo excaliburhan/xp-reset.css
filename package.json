@@ -1,0 +1,9 @@
+{
+  "name": "xp-reset.css",
+  "version": "1.0.0",
+  "description": "reset css方案",
+  "main": "xp-reset.css",
+  "repository": "git@github.com:excaliburhan/xp-reset.css.git",
+  "author": "xiaoping <edwardhjp@gmail.com>",
+  "license": "MIT"
+}
