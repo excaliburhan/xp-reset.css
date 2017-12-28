@@ -1,8 +1,5 @@
-## xp-reset.css
-
+# xp-reset.css
 css reset方案
-
-
 
 ### 安装
 
