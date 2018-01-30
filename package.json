@@ -1,6 +1,6 @@
 {
   "name": "xp-reset.css",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "css reset方案",
   "main": "xp-reset.css",
   "repository": "git@github.com:excaliburhan/xp-reset.css.git",
